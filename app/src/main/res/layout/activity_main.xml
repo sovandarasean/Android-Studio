@@ -19,9 +19,9 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="20dp"
-        android:text="CALCULATE YOUR"
+        android:text="@string/calculate_your"
         android:textAlignment="center"
-        android:textColor="#F4511E"
+        android:textColor="#1100F6"
         android:textSize="20sp"
         android:textStyle="bold" />
 
